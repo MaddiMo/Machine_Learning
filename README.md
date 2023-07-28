@@ -1,6 +1,12 @@
-# Machine_Learning_Red_Wine
+# Red Wine: Alcohol percentage prediction
 
-Using Machine Learning, 4 different models have been completed to find the one that best one that predicts the level of alcohol of the wine taking into account different variables:
+**I like a good red wine :wine_glass:!**                  
+
+Hence, reason I have enjoyed it a little bit extra the completion of this exercise.
+
+Using Machine Learning, 4 different models have been completed to find the best model that predicts the percentage of alcohol of the red wine.
+
+### Used Machine Learning Models: 
 
     1. Linear Regression
     2. Decision Tree
@@ -9,4 +15,4 @@ Using Machine Learning, 4 different models have been completed to find the one t
 
 ### RESULT
 
-From the different models that have been completed, it has been seen that the XGBoost is the best one.From the result,it can be said that XGBoost provides a considerable good enough. # However, it does not provide a definitive answer
+From the different models that have been completed, it has been seen that the **XGBoost method** is the best one to predict the percentage of alcohol of the red wine. From the result, it can be said that XGBoost provides a considerable good enough model. However, it does not provide a definitive answer. 
